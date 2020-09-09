@@ -1,0 +1,51 @@
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  letter-spacing: 5px;
+  color: white;
+}
+
+.bg-light {
+  background-color: #1abc9c !important;
+}
+
+.navbar-light .navbar-brand {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-nav li a:hover {
+  color: rgb(0, 0, 0) !important;
+}
+
+.post-content {
+  height: 80vh;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+}
+
+.btn-primary:hover {
+	background-color: #07886e;
+	border-color: #07886e;
+}
+
+.footer {
+  background-color: #1abc9c;
+  padding-bottom: 60px;
+}
+
+.footer p {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #fff;
+}
